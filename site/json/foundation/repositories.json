@@ -1271,6 +1271,7 @@
 "grails-gradle-plugin": "https://gitbox.apache.org/repos/asf/grails-gradle-plugin.git",
 "grails-gradle-publish": "https://gitbox.apache.org/repos/asf/grails-gradle-publish.git",
 "grails-intellij-plugin": "https://gitbox.apache.org/repos/asf/grails-intellij-plugin.git",
+"grails-micronaut": "https://gitbox.apache.org/repos/asf/grails-micronaut.git",
 "grails-plugins-metadata": "https://gitbox.apache.org/repos/asf/grails-plugins-metadata.git",
 "grails-profiles": "https://gitbox.apache.org/repos/asf/grails-profiles.git",
 "grails-quartz": "https://gitbox.apache.org/repos/asf/grails-quartz.git",

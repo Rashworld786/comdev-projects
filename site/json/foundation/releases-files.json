@@ -50,6 +50,9 @@
 "activemq-parent-5.19.10": [
 "activemq/5.19.10/activemq-parent-5.19.10-source-release.zip"
 ],
+"activemq-parent-5.19.11": [
+"activemq/5.19.11/activemq-parent-5.19.11-source-release.zip"
+],
 "activemq-parent-5.19.9": [
 "activemq/5.19.9/activemq-parent-5.19.9-source-release.zip"
 ],
@@ -11434,6 +11437,9 @@
 ],
 "rivet-3.3.0": [
 "tcl/rivet/rivet-3.3.0.tar.gz"
+],
+"rivet-3.3.1": [
+"tcl/rivet/rivet-3.3.1.tar.gz"
 ]
 },
 "teaclave": {

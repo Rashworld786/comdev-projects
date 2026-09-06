@@ -19610,9 +19610,14 @@
 "programming-language": "Tcl",
 "release": [
 {
-"created": "2026-07-30",
-"name": "rivet-3.3.0",
-"revision": "3.3.0"
+"created": "2026-09-05",
+"name": "rivet-3.3.1",
+"revision": "3.3.1"
+},
+{
+"created": "2025-11-15",
+"name": "rivet-3.2.8",
+"revision": "3.2.8"
 }
 ],
 "repository": [

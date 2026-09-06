@@ -17,6 +17,7 @@
 "activemq-cli-tools-parent-0.2.0": "2020-07-22",
 "activemq-cpp-library-3.9.5": "2019-01-25",
 "activemq-parent-5.19.10": "2026-08-06",
+"activemq-parent-5.19.11": "2026-09-02",
 "activemq-parent-5.19.9": "2026-07-24",
 "activemq-parent-6.2.8": "2026-07-24",
 "activemq-parent-6.2.9": "2026-08-06",
@@ -3841,8 +3842,9 @@
 },
 "tcl": {
 "rivet-2.4.0": "2018-11-28",
-"rivet-3.2.8": "2025-11-14",
-"rivet-3.3.0": "2026-07-31"
+"rivet-3.2.8": "2026-09-05",
+"rivet-3.3.0": "2026-07-31",
+"rivet-3.3.1": "2026-09-05"
 },
 "teaclave": {
 "apache-teaclave-0.5.1-incubating": "2023-05-31",
