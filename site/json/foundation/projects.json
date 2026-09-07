@@ -530,6 +530,11 @@
 "programming-language": "Java",
 "release": [
 {
+"created": "2026-09-06",
+"name": "Apache Ant 1.10.18",
+"revision": "1.10.18"
+},
+{
 "created": "2026-04-10",
 "name": "Apache Ant 1.10.17",
 "revision": "1.10.17"
@@ -4745,10 +4750,30 @@
 "created": "2021-08-01",
 "name": "Apache Axis2",
 "revision": "1.8.0"
+},
+{
+"created": "2022-07-01",
+"name": "Apache Axis2",
+"revision": "1.8.1"
+},
+{
+"created": "2022-07-13",
+"name": "Apache Axis2",
+"revision": "1.8.2"
+},
+{
+"created": "2025-03-04",
+"name": "Apache Axis2",
+"revision": "2.0.0"
+},
+{
+"created": "2026-05-17",
+"name": "Apache Axis2",
+"revision": "2.0.1"
 }
 ],
 "repository": [
-"http://svn.apache.org/repos/asf/axis/axis2/java/core/trunk/"
+"https://gitbox.apache.org/repos/asf/axis-axis2-java-core.git"
 ],
 "shortdesc": "Apache Axis2 is a service hosting and consumption framework that makes it easy to use SOAP and Web Services"
 },

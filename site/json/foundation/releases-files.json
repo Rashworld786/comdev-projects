@@ -582,6 +582,12 @@
 "ant/source/apache-ant-1.10.17-src.tar.xz",
 "ant/source/apache-ant-1.10.17-src.zip"
 ],
+"apache-ant-1.10.18": [
+"ant/source/apache-ant-1.10.18-src.tar.bz2",
+"ant/source/apache-ant-1.10.18-src.tar.gz",
+"ant/source/apache-ant-1.10.18-src.tar.xz",
+"ant/source/apache-ant-1.10.18-src.zip"
+],
 "apache-ant-1.9.16": [
 "ant/source/apache-ant-1.9.16-src.tar.bz2",
 "ant/source/apache-ant-1.9.16-src.tar.gz",
@@ -2140,6 +2146,10 @@
 "commons-scxml-0.9": [
 "commons/scxml/source/commons-scxml-0.9-src.tar.gz",
 "commons/scxml/source/commons-scxml-0.9-src.zip"
+],
+"commons-secure-xml-1.0.0": [
+"commons/secure-xml/source/commons-secure-xml-1.0.0-src.tar.gz",
+"commons/secure-xml/source/commons-secure-xml-1.0.0-src.zip"
 ],
 "commons-statistics-1.3": [
 "commons/statistics/source/commons-statistics-1.3-src.tar.gz",
