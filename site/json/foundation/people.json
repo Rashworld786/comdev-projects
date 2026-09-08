@@ -11341,6 +11341,13 @@
 "member": false,
 "name": "Claire Chen"
 },
+"clairelyt": {
+"groups": [
+"shardingsphere"
+],
+"member": false,
+"name": "Yantong Li"
+},
 "clalance": {
 "groups": [
 "incubator"
@@ -22788,7 +22795,8 @@
 },
 "gsaihemanth": {
 "groups": [
-"hive"
+"hive",
+"hive-pmc"
 ],
 "member": false,
 "name": "Sai Hemanth Gantasala"
@@ -26773,6 +26781,13 @@
 ],
 "member": false,
 "name": "Ian P. Springer"
+},
+"iqwqi": {
+"groups": [
+"incubator"
+],
+"member": false,
+"name": "Bohao Zhang"
 },
 "irakov": {
 "groups": [
@@ -39855,6 +39870,13 @@
 ],
 "member": false,
 "name": "Luc Maisonobe"
+},
+"lucacappelletti": {
+"groups": [
+"datafusion"
+],
+"member": false,
+"name": "Luca Cappelletti"
 },
 "lucamolteni": {
 "groups": [
@@ -57674,6 +57696,13 @@
 ],
 "member": false,
 "name": "Andrei Sereda"
+},
+"seregamorph": {
+"groups": [
+"maven"
+],
+"member": false,
+"name": "Sergey Chernov"
 },
 "serena": {
 "groups": [

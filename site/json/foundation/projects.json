@@ -17152,8 +17152,13 @@
 "programming-language": "C, C++, C#, Go, Java, Python",
 "release": [
 {
+"created": "2026-09-07",
+"name": "Latest 1.0.0 release",
+"revision": "1.0.0"
+},
+{
 "created": "2025-08-29",
-"name": "Latest 0.13.1 release",
+"name": "Legacy 0.13.1 release",
 "revision": "0.13.1"
 },
 {
