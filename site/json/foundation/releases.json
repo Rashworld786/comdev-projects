@@ -310,7 +310,7 @@
 "apache-arrow-adbc-24": "2026-07-24",
 "apache-arrow-dotnet-23.0.0": "2026-05-06",
 "apache-arrow-flight-sql-postgresql-0.1.0": "2023-09-13",
-"apache-arrow-go-18.7.0": "2026-07-21",
+"apache-arrow-go-18.8.0": "2026-09-08",
 "apache-arrow-java-19.0.0": "2026-03-16",
 "apache-arrow-js-21.2.0": "2026-07-21",
 "apache-arrow-julia-2.8.1": "2026-01-13",
@@ -902,6 +902,7 @@
 },
 "dolphinscheduler": {
 "apache-dolphinscheduler-3.4.2": "2026-05-30",
+"apache-dolphinscheduler-3.4.3": "2026-09-06",
 "dolphinscheduler-operator-0.1.0": "2022-08-15",
 "dolphinscheduler-python-4.0.4": "2023-10-12"
 },
@@ -2591,6 +2592,7 @@
 "apache-netbeans-java-28.0.1": "2025-12-05",
 "apache-netbeans-java-29.0.1": "2026-03-25",
 "apache-netbeans-java-30.0.1": "2026-06-22",
+"apache-netbeans-java-31.0.1": "2026-09-08",
 "launcher-external-binaries-3-282bbc032bcd": "2025-04-10",
 "launcher-external-binaries-4-8e2bc77e581e": "2025-10-19",
 "launcher-external-sources-3-282bbc032bcd": "2025-04-10",
@@ -2612,8 +2614,7 @@
 "nifi": {
 "nifi-1.28.1": "2024-11-15",
 "nifi-2.11.0": "2026-07-30",
-"nifi-api-2.10.0": "2026-07-08",
-"nifi-api-2.11.0": "2026-08-27",
+"nifi-api-2.12.0": "2026-09-07",
 "nifi-fds-0.3.0": "2022-01-25",
 "nifi-kafka-connector-1.28.1": "2024-11-15",
 "nifi-minifi-cpp-0.14.0": "2023-04-12",
@@ -2627,7 +2628,7 @@
 "nifi-nar-maven-plugin-2.4.0": "2026-08-19"
 },
 "nutch": {
-"apache-nutch-1.22": "2026-02-12"
+"apache-nutch-1.23": "2026-08-08"
 },
 "nuttx": {
 "apache-nuttx-10.0.1-incubating": "2020-12-09",
@@ -2683,17 +2684,29 @@
 },
 "opendal": {
 "apache-opendal-bindings-c-0.47.3": "2026-08-31",
+"apache-opendal-bindings-c-0.47.4": "2026-09-05",
 "apache-opendal-bindings-cpp-0.45.30": "2026-08-31",
+"apache-opendal-bindings-cpp-0.45.31": "2026-09-05",
 "apache-opendal-bindings-dotnet-0.2.0": "2026-08-31",
+"apache-opendal-bindings-dotnet-0.2.1": "2026-09-05",
 "apache-opendal-bindings-java-0.50.3": "2026-08-31",
+"apache-opendal-bindings-java-0.50.4": "2026-09-05",
 "apache-opendal-bindings-nodejs-0.49.8": "2026-08-31",
+"apache-opendal-bindings-nodejs-0.49.9": "2026-09-05",
 "apache-opendal-bindings-python-0.47.7": "2026-08-31",
+"apache-opendal-bindings-python-0.47.8": "2026-09-05",
 "apache-opendal-bindings-ruby-0.1.11": "2026-08-31",
+"apache-opendal-bindings-ruby-0.1.12": "2026-09-05",
 "apache-opendal-core-0.59.0": "2026-08-31",
+"apache-opendal-core-0.59.1": "2026-09-05",
 "apache-opendal-integrations-dav-server-0.7.6": "2026-08-31",
+"apache-opendal-integrations-dav-server-0.7.7": "2026-09-05",
 "apache-opendal-integrations-object_store-0.60.0": "2026-08-31",
+"apache-opendal-integrations-object_store-0.60.1": "2026-09-05",
 "apache-opendal-integrations-parquet-0.10.0": "2026-08-31",
+"apache-opendal-integrations-parquet-0.10.1": "2026-09-05",
 "apache-opendal-integrations-unftp-sbe-0.4.6": "2026-08-31",
+"apache-opendal-integrations-unftp-sbe-0.4.7": "2026-09-05",
 "apache-opendal-reqsign-0.20.0": "2026-03-19",
 "apache-opendal-reqsign-0.20.1": "2026-05-22",
 "apache-opendal-reqsign-0.20.2": "2026-07-06",
@@ -3347,8 +3360,8 @@
 "skywalking-banyandb-0.11.0-bydbctl": "2026-08-24",
 "skywalking-banyandb-0.11.0-fodc-agent": "2026-08-24",
 "skywalking-banyandb-0.11.0-fodc-proxy": "2026-08-24",
-"skywalking-banyandb-helm-0.6.0": "2026-04-23",
-"skywalking-banyandb-helm-0.7.0-rc1": "2026-08-05",
+"skywalking-banyandb-helm-0.7.0": "2026-08-30",
+"skywalking-banyandb-helm-0.8.0-rc0": "2026-09-08",
 "skywalking-cli-0.13.0": "2023-11-29",
 "skywalking-cli-0.14.0": "2024-10-17",
 "skywalking-client-js-1.1.0": "2026-03-26",
@@ -3896,8 +3909,10 @@
 "tinkerpop": {
 "apache-tinkerpop-3.7.5": "2025-11-17",
 "apache-tinkerpop-3.7.6": "2026-04-06",
+"apache-tinkerpop-3.7.7": "2026-09-08",
 "apache-tinkerpop-3.8.0": "2025-11-17",
 "apache-tinkerpop-3.8.1": "2026-04-07",
+"apache-tinkerpop-3.8.2": "2026-09-08",
 "apache-tinkerpop-4.0.0-beta.1": "2025-01-23",
 "apache-tinkerpop-4.0.0-beta.2": "2026-04-07",
 "apache-tinkerpop-4.0.0-beta.3": "2026-07-27"

@@ -11684,6 +11684,11 @@
 "programming-language": "C++,Java",
 "release": [
 {
+"created": "2026-09-02",
+"name": "Apache Impala 4.5.2",
+"revision": "4.5.2"
+},
+{
 "created": "2025-03-03",
 "name": "Apache Impala 4.5.0",
 "revision": "4.5.0"
@@ -15939,6 +15944,11 @@
 "pmc": "nutch",
 "programming-language": "Java",
 "release": [
+{
+"created": "2026-08-07",
+"name": "Apache Nutch 1.23",
+"revision": "1.23"
+},
 {
 "created": "2026-02-12",
 "name": "Apache Nutch 1.22",

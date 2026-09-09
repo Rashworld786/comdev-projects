@@ -25209,7 +25209,8 @@
 },
 "hope": {
 "groups": [
-"paimon"
+"paimon",
+"paimon-pmc"
 ],
 "member": false,
 "name": "Hongbo Xiao"
@@ -70639,7 +70640,8 @@
 },
 "xxhzs": {
 "groups": [
-"incubator"
+"incubator",
+"maka"
 ],
 "member": false,
 "name": "xu xinhao"
