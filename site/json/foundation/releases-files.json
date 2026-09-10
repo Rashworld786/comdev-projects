@@ -941,9 +941,9 @@
 ]
 },
 "artemis": {
-"apache-artemis-2.56.0": [
-"artemis/artemis/2.56.0/apache-artemis-2.56.0-source-release.tar.gz",
-"artemis/artemis/2.56.0/apache-artemis-2.56.0-source-release.zip"
+"apache-artemis-2.57.0": [
+"artemis/artemis/2.57.0/apache-artemis-2.57.0-source-release.tar.gz",
+"artemis/artemis/2.57.0/apache-artemis-2.57.0-source-release.zip"
 ],
 "apache-artemis-console-1.8.0": [
 "artemis/artemis-console/1.8.0/apache-artemis-console-1.8.0-source-release.tar.gz",
@@ -6576,6 +6576,11 @@
 "knox/2.1.0/knox-2.1.0.tar.gz",
 "knox/2.1.0/knox-2.1.0.zip"
 ],
+"knox-3.0.0": [
+"knox/3.0.0/knox-3.0.0-src.zip",
+"knox/3.0.0/knox-3.0.0.tar.gz",
+"knox/3.0.0/knox-3.0.0.zip"
+],
 "knoxshell-1.2.0": [
 "knox/1.2.0/knoxshell-1.2.0.tar.gz",
 "knox/1.2.0/knoxshell-1.2.0.zip"
@@ -6607,6 +6612,10 @@
 "knoxshell-2.1.0": [
 "knox/2.1.0/knoxshell-2.1.0.tar.gz",
 "knox/2.1.0/knoxshell-2.1.0.zip"
+],
+"knoxshell-3.0.0": [
+"knox/3.0.0/knoxshell-3.0.0.tar.gz",
+"knox/3.0.0/knoxshell-3.0.0.zip"
 ]
 },
 "kudu": {
@@ -7153,6 +7162,9 @@
 "maven-dependency-analyzer-1.17.1": [
 "maven/shared/maven-dependency-analyzer-1.17.1-source-release.zip"
 ],
+"maven-dependency-analyzer-1.17.2": [
+"maven/shared/maven-dependency-analyzer-1.17.2-source-release.zip"
+],
 "maven-dependency-plugin-3.11.0": [
 "maven/plugins/maven-dependency-plugin-3.11.0-source-release.zip"
 ],
@@ -7257,8 +7269,14 @@
 "maven-plugin-tools-3.15.2": [
 "maven/plugin-tools/maven-plugin-tools-3.15.2-source-release.zip"
 ],
+"maven-plugin-tools-3.16.0": [
+"maven/plugin-tools/maven-plugin-tools-3.16.0-source-release.zip"
+],
 "maven-plugin-tools-4.0.0-beta-2": [
 "maven/plugin-tools/maven-plugin-tools-4.0.0-beta-2-source-release.zip"
+],
+"maven-plugin-tools-4.0.0-beta-3": [
+"maven/plugin-tools/maven-plugin-tools-4.0.0-beta-3-source-release.zip"
 ],
 "maven-pmd-plugin-3.28.0": [
 "maven/plugins/maven-pmd-plugin-3.28.0-source-release.zip"

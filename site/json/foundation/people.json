@@ -72250,6 +72250,13 @@
 "member": false,
 "name": "Yi Liu"
 },
+"yujun": {
+"groups": [
+"doris"
+],
+"member": false,
+"name": "Jun Yu"
+},
 "yukim": {
 "groups": [
 "cassandra"
