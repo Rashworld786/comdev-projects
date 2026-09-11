@@ -21215,7 +21215,7 @@
 "shortdesc": "Tools that display and visualize various bits of data related to ASF organizations and processes."
 },
 "wicket": {
-"bug-database": "https://issues.apache.org/jira/browse/WICKET",
+"bug-database": "https://github.com/apache/wicket/issues",
 "category": "web-framework",
 "created": "2004-04-01",
 "description": "Write maintainable, secure and scalable web applications using just Java and HTML. Invented in 2004, Wicket is one of the few survivors of the Java serverside web framework wars of the mid 2000's, and a proud member of the Apache Software Foundation.",
