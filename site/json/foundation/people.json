@@ -7731,6 +7731,7 @@
 "felix",
 "incubator",
 "incubator-pmc",
+"nifi",
 "tika",
 "tika-pmc"
 ],
@@ -33637,7 +33638,8 @@
 },
 "junrui": {
 "groups": [
-"flink"
+"flink",
+"paimon"
 ],
 "member": false,
 "name": "Junrui Lee"
@@ -73696,6 +73698,7 @@
 },
 "zhengshengjun": {
 "groups": [
+"doris",
 "kylin"
 ],
 "member": false,

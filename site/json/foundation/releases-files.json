@@ -2500,14 +2500,8 @@
 ]
 },
 "datafusion": {
-"apache-datafusion-53.1.0": [
-"datafusion/datafusion-53.1.0/apache-datafusion-53.1.0.tar.gz"
-],
-"apache-datafusion-54.1.0": [
-"datafusion/datafusion-54.1.0/apache-datafusion-54.1.0.tar.gz"
-],
-"apache-datafusion-55.0.0": [
-"datafusion/datafusion-55.0.0/apache-datafusion-55.0.0.tar.gz"
+"apache-datafusion-55.1.0": [
+"datafusion/datafusion-55.1.0/apache-datafusion-55.1.0.tar.gz"
 ],
 "apache-datafusion-ballista-54.0.0": [
 "datafusion/datafusion-ballista-54.0.0/apache-datafusion-ballista-54.0.0.tar.gz"
@@ -4236,6 +4230,9 @@
 "fory": {
 "apache-fory-1.7.1": [
 "fory/1.7.1/apache-fory-1.7.1-src.tar.gz"
+],
+"apache-fory-1.7.2": [
+"fory/1.7.2/apache-fory-1.7.2-src.tar.gz"
 ]
 },
 "freemarker": {
@@ -6219,8 +6216,8 @@
 "apache-iotdb-2.0.10": [
 "iotdb/2.0.10/apache-iotdb-2.0.10-source-release.zip"
 ],
-"apache-iotdb-2.0.8": [
-"iotdb/2.0.8/apache-iotdb-2.0.8-source-release.zip"
+"apache-iotdb-2.0.11": [
+"iotdb/2.0.11/apache-iotdb-2.0.11-source-release.zip"
 ],
 "iotdb-session-cpp-2.0.10-linux-aarch64-glibc2.28": [
 "iotdb/2.0.10/iotdb-session-cpp-2.0.10-linux-aarch64-glibc2.28.zip"
@@ -6239,6 +6236,24 @@
 ],
 "iotdb-session-cpp-2.0.10-windows-x86_64-msvc14.4": [
 "iotdb/2.0.10/iotdb-session-cpp-2.0.10-windows-x86_64-msvc14.4.zip"
+],
+"iotdb-session-cpp-2.0.11-linux-aarch64-glibc2.28": [
+"iotdb/2.0.11/iotdb-session-cpp-2.0.11-linux-aarch64-glibc2.28.zip"
+],
+"iotdb-session-cpp-2.0.11-linux-x86_64-glibc2.28": [
+"iotdb/2.0.11/iotdb-session-cpp-2.0.11-linux-x86_64-glibc2.28.zip"
+],
+"iotdb-session-cpp-2.0.11-windows-x86_64-msvc14.1": [
+"iotdb/2.0.11/iotdb-session-cpp-2.0.11-windows-x86_64-msvc14.1.zip"
+],
+"iotdb-session-cpp-2.0.11-windows-x86_64-msvc14.2": [
+"iotdb/2.0.11/iotdb-session-cpp-2.0.11-windows-x86_64-msvc14.2.zip"
+],
+"iotdb-session-cpp-2.0.11-windows-x86_64-msvc14.3": [
+"iotdb/2.0.11/iotdb-session-cpp-2.0.11-windows-x86_64-msvc14.3.zip"
+],
+"iotdb-session-cpp-2.0.11-windows-x86_64-msvc14.4": [
+"iotdb/2.0.11/iotdb-session-cpp-2.0.11-windows-x86_64-msvc14.4.zip"
 ]
 },
 "jackrabbit": {
@@ -8235,13 +8250,13 @@
 "opennlp/opennlp-1.9.5/apache-opennlp-1.9.5-src.tar.gz",
 "opennlp/opennlp-1.9.5/apache-opennlp-1.9.5-src.zip"
 ],
-"apache-opennlp-2.5.11": [
-"opennlp/opennlp-2.5.11/apache-opennlp-2.5.11-src.tar.gz",
-"opennlp/opennlp-2.5.11/apache-opennlp-2.5.11-src.zip"
+"apache-opennlp-2.5.12": [
+"opennlp/opennlp-2.5.12/apache-opennlp-2.5.12-src.tar.gz",
+"opennlp/opennlp-2.5.12/apache-opennlp-2.5.12-src.zip"
 ],
-"apache-opennlp-3.0.0-M5": [
-"opennlp/opennlp-3.0.0-M5/apache-opennlp-3.0.0-M5-src.tar.gz",
-"opennlp/opennlp-3.0.0-M5/apache-opennlp-3.0.0-M5-src.zip"
+"apache-opennlp-3.0.0-M6": [
+"opennlp/opennlp-3.0.0-M6/apache-opennlp-3.0.0-M6-src.tar.gz",
+"opennlp/opennlp-3.0.0-M6/apache-opennlp-3.0.0-M6-src.zip"
 ],
 "opennlp-models-1.3.0": [
 "opennlp/opennlp-models-1.3.0/opennlp-models-1.3.0-source-release.zip"
@@ -8611,6 +8626,9 @@
 ],
 "apache-parquet-format-2.13.0": [
 "parquet/apache-parquet-format-2.13.0/apache-parquet-format-2.13.0.tar.gz"
+],
+"apache-parquet-format-2.14.0": [
+"parquet/apache-parquet-format-2.14.0/apache-parquet-format-2.14.0.tar.gz"
 ],
 "apache-parquet-format-2.7.0": [
 "parquet/apache-parquet-format-2.7.0/apache-parquet-format-2.7.0.tar.gz"
@@ -11315,6 +11333,11 @@
 "subversion/subversion-1.15.0-rc3.tar.bz2",
 "subversion/subversion-1.15.0-rc3.tar.gz",
 "subversion/subversion-1.15.0-rc3.zip"
+],
+"subversion-1.15.0-rc4": [
+"subversion/subversion-1.15.0-rc4.tar.bz2",
+"subversion/subversion-1.15.0-rc4.tar.gz",
+"subversion/subversion-1.15.0-rc4.zip"
 ]
 },
 "superset": {
